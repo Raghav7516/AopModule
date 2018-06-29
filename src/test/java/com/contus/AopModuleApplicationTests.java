@@ -1,4 +1,4 @@
-package com.contus;
+package com.aop;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
